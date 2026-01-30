@@ -21,3 +21,8 @@ A design's efficacy is measured by how well it caters to the user's or client's 
 How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 
 When faced with multifaceted projects, I adopt a reverse engineering approach. It's like writing an essay; starting can be daunting. To navigate this, I focus on the aspects I'm most certain about. Taking DriverPass as an example, I knew users needed to log in. So, I started with designing the login mechanism, then incorporated relevant features like user verification and error messages for incorrect inputs. Gradually, I'd branch out from this core, addressing each component until the entire scope is covered.
+
+## Author
+
+Brad Mills ([@MillsAirCode](https://github.com/MillsAirCode))
+
